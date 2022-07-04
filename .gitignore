@@ -1,0 +1,11 @@
+# python
+.env
+.build
+*.pyc
+
+# editor
+.idea
+.un~
+
+# OS
+.DS_Store
